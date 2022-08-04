@@ -21,6 +21,13 @@ Model 2: 2, 2D Conl layers with 32-3X3 & 64-3X3 filters, each has a MaxPooling l
      
 <img align="left" height="450" width="350" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V2/1st/Accuracy.jpeg">
 <img align="right" height="450" width="350" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V2/1st/Loss.jpeg">     
-<img align="center" height="450" width="550" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V2/1st/Confusion.jpeg">     
+<img align="center" height="450" width="550" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V2/1st/Confusion.jpeg">      
+      
+ANNs works same as our brain they did mistake in recognizing doted line and line, I think that was most difficult for them.     
+     
+
+## Task 3: Fine Tuning of Pretrained Models     
+       
+  
 
 
