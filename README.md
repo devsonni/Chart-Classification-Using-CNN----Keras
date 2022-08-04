@@ -10,11 +10,11 @@ This will make labling process much easier with the help of ImageDataGenerator f
         
 ### Model Results      
     
-<img align="left" height="450" width="350" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V1/4th/Accuracy.jpeg">
-<img align="right" height="450" width="350" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V1/4th/Loss.jpeg">     
-<img align="center" height="450" width="350" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V1/4th/Confusion%20Mat.jpeg">     
-<img align="left" height="450" width="350" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V2/1st/Accuracy.jpeg">
-<img align="right" height="450" width="350" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V2/1st/Loss.jpeg">     
-<img align="center" height="450" width="350" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V2/1st/Confusion.jpeg">     
+<img align="left" height="450" width="500" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V1/4th/Accuracy.jpeg">
+<img align="right" height="450" width="500" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V1/4th/Loss.jpeg">     
+<img align="center" height="450" width="550" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V1/4th/Confusion%20Mat.jpeg">     
+<img align="left" height="450" width="500" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V2/1st/Accuracy.jpeg">
+<img align="right" height="450" width="500" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V2/1st/Loss.jpeg">     
+<img align="center" height="450" width="550" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/V2/1st/Confusion.jpeg">     
 
 
