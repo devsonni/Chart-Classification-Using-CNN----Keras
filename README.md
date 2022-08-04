@@ -28,8 +28,15 @@ CNNs works same as humas brains they did mistake in recognizing doted line and l
 
 ## Task 3: Fine Tuning of Pretrained Models    
      
-### I updated VGG16 pretrained award winning model. Where, I changed last 1000 layer prediction to 5 prediction and freeze all the weights insted of last layer's weights and trained model for just 5 epochs, and got 100% accuracy for both validation and test sets.   
-       
+### I updated VGG16 pretrained award winning model. Where, I changed last 1000 layer prediction to 5 prediction and freeze all the weights insted of last layer's weights and trained model for just 5 epochs, and got 100% accuracy for both validation and test sets.      
+   
+      
+<img align="left" height="450" width="350" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/VGG16UP/Accuracy.jpeg">
+<img align="right" height="450" width="350" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/VGG16UP/Loss.jpeg">     
+<img align="center" height="450" width="550" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/VGG16UP/Confusion%20Matrix.jpeg">    
+
+      
+## Task 4: ? 
   
 
 
