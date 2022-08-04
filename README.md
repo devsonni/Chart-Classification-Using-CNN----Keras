@@ -26,7 +26,9 @@ Model 2: 2, 2D Conl layers with 32-3X3 & 64-3X3 filters, each has a MaxPooling l
 CNNs works same as humas brains they did mistake in recognizing doted line and line, I think that was most difficult for them.     
      
 
-## Task 3: Fine Tuning of Pretrained Models     
+## Task 3: Fine Tuning of Pretrained Models    
+     
+### I updated VGG16 pretrained award winning model. Where, I changed last 1000 layer prediction to 5 prediction and freeze all the weights insted of last layer's weights and trained model for just 5 epochs, and got 100% accuracy for both validation and test sets.   
        
   
 
