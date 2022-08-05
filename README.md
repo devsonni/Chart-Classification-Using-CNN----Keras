@@ -39,23 +39,23 @@ Updated VGG16 pretrained award winning model. Where, I changed last 1000 layer p
 ## Task 4: GradCAM     
        
 ### Dot Line      
-<img align="left" height="350" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/D%20Line%201.jpeg">
-<img align="right" height="350" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/D%20Line%202.jpeg">      
+<img align="left" height="250" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/D%20Line%201.jpeg">
+<img align="right" height="250" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/D%20Line%202.jpeg">      
      
 ### Line       
-<img align="left" height="350" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/Line%201.jpeg">
-<img align="right" height="350" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/Line%202.jpeg">     
+<img align="left" height="250" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/Line%201.jpeg">
+<img align="right" height="250" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/Line%202.jpeg">     
       
 ### Vertical Bar    
-<img align="left" height="350" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/V%20Bar%201.jpeg">
-<img align="right" height="350" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/V%20Bar%202.jpeg">     
+<img align="left" height="250" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/V%20Bar%201.jpeg">
+<img align="right" height="250" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/V%20Bar%202.jpeg">     
     
 ### Horizontal Bar      
-<img align="left" height="350" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/H%20Bar%201.jpeg">
-<img align="right" height="350" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/H%20Bar%202.jpeg">     
+<img align="left" height="250" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/H%20Bar%201.jpeg">
+<img align="right" height="250" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/H%20Bar%202.jpeg">     
        
 ### Pie     
-<img align="left" height="350" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/Pie%201.jpeg">
-<img align="right" height="350" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/Pie%202.jpeg">     
+<img align="left" height="250" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/Pie%201.jpeg">
+<img align="right" height="250" width="900" src="https://github.com/devsonni/Chart-Classification-Using-CNN----Keras/blob/main/Results/GradCAM/Pie%202.jpeg">     
 
 
