@@ -46,9 +46,6 @@ idst = _MockFunction(np.random.random(10))
 dstn = _MockFunction(np.random.random(10))
 idstn = _MockFunction(np.random.random(10))
 
-fht = _MockFunction(np.random.random(10))
-ifht = _MockFunction(np.random.random(10))
-
 
 __ua_domain__ = "numpy.scipy.fft"
 
