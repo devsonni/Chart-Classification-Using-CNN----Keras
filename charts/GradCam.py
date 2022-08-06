@@ -13,24 +13,23 @@ import numpy as np
 ##############################################################
 # Reading the images
 
-Dot_line = cv2.imread('Test/Dot Line/20.png')
-Horizontal_Bar = cv2.imread('Test/Horizontal Bar/16.png')
-Vertical_Bar = cv2.imread('Test/Vertical Bar/6.png')
-Line = cv2.imread('Test/Line/8.png')
-Pie = cv2.imread('Test/Pie/48.png')
+Dot_line = cv2.imread('Test/Dot Line/18.png')
+Horizontal_Bar = cv2.imread('Test/Horizontal Bar/30.png')
+Vertical_Bar = cv2.imread('Test/Vertical Bar/0.png')
+Line = cv2.imread('Test/Line/4.png')
+Pie = cv2.imread('Test/Pie/14.png')
 
 # Proceeding with just single image
 # load the original image from disk (in OpenCV format) and then
 # resize the image to its target dimensions
-orig = cv2.imread("Test/Line/8.png")
+orig = cv2.imread("Test/Pie/14.png")
 resized = cv2.resize(orig, (224, 224))
 
 # Expanding image to feed the networks
-Pie = load_img('Test/Line/8.png', target_size=(224, 224))
+Pie = load_img('Test/Pie/14.png', target_size=(224, 224))
 Pie = img_to_array(Pie)
 Pie = np.expand_dims(Pie, axis=0)
 Pie = imagenet_utils.preprocess_input(Pie)
-print(Pie.shape)
 
 ###############################################################
 ###############################################################
@@ -149,6 +148,10 @@ heatmap = cv2.resize(heatmap, (orig.shape[1], orig.shape[0]))
 # display the original image and resulting heatmap and output image
 # to our screen
 output = imutils.resize(output, height=700)
+
+output = cv2.cvtColor(output, cv2.COLOR_BGR2RGB)
+heatmap = cv2.cvtColor(heatmap, cv2.COLOR_BGR2RGB)
+orig = cv2.cvtColor(orig, cv2.COLOR_BGR2RGB)
 
 # plotting through plt
 plt.figure(1)
